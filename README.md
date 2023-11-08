@@ -2,6 +2,7 @@
 
 
 # TASK-1
+
 Certainly! Based on the information provided, your task involves conducting preliminary data exploration and finding ways to improve the quality of Sprocket Central Pty Ltd's datasets, which include Customer Demographic, Customer Addresses, and Transactions data from the past 3 months. Here's a step-by-step explanation of the task:
 
 **1. Understand the Data:**
